@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="8dp"
+    android:layout_margin="8dp"
+    android:background="@drawable/tracker_frag_latest_update_background">
+    <TextView
+        android:id="@+id/trending_news_article_header_text_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:textColor="@android:color/black"
+        android:textSize="18sp"
+        android:text="@string/header_news_text_view_place_holder"
+        android:textStyle="bold"/>
+    <TextView
+        android:id="@+id/trending_news_article_description_text_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/trending_news_article_header_text_view"
+        android:layout_marginTop="12dp"
+        android:padding="8dp"
+        android:textColor="@android:color/black"
+        android:textSize="20sp"
+        android:text="@string/description_news_text_view_place_holder"
+        android:fontFamily="cursive"/>
+    <TextView
+        android:id="@+id/tap_to_know_more_text_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/trending_news_article_description_text_view"
+        android:layout_centerHorizontal="true"
+        android:text="@string/tap_to_know_more_TEXT"
+        android:textColor="@android:color/white"/>
+</RelativeLayout>

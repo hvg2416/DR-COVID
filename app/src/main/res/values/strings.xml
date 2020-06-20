@@ -1,0 +1,87 @@
+<resources>
+    <string name="app_name">Dr. COVID</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+    <string name="TabItem1">Covid 19 Tracker</string>
+    <string name="TabItem2">Latest News</string>
+    <string name="TabItem3">Covid 19 Analyzer</string>
+    <string name="latest_update_header_text">Latest Update</string>
+    <string name="active_cases_sub_title_text">Total Cases</string>
+    <string name="death_cases_sub_title_text">Death Cases</string>
+    <string name="recovered_cases_sub_title_text">Recovered Cases</string>
+    <string name="no_internet_case_text">Turn ON internet to Sync Data</string>
+
+
+    <!-- YOUTUBE ANDROID API STRINGS RESOURCE -->
+    <string name="first_video_MuskurayegaIndia" translatable="false">wh-sRmTWGTw</string>
+    <string name="second_video_WHO_corona_preventions_english" translatable="false">1APwq1df6Mw</string>
+    <string name="third_video_Coronavirus_in_Hindi_Apollo_Hospitals" translatable="false">AIsCTZQL5ps</string>
+    <string name="fourth_video_Teri_Mitti_Tribute" translatable="false">QiBeywmJoRY</string>
+
+
+    <string name="trending_news_header_text">TRENDING NEWS</string>
+    <string name="header_news_text_view_place_holder" translatable="false">Header News</string>
+    <string name="description_news_text_view_place_holder" translatable="false">Description News</string>
+    <string name="tap_to_know_more_TEXT">Tap to know more...</string>
+
+    <!-- SELF ANALYZER QUESTIONS AND OPTIONS -->
+    <string name="Question_1">Do you currently have any of these health conditions ?</string>
+    <string name="Question_1_Option_1">No existing conditions</string>
+    <string name="Question_1_Option_2">Asthma</string>
+    <string name="Question_1_Option_3">Cancer</string>
+    <string name="Question_1_Option_4">Chronic lung disease (COPD)</string>
+    <string name="Question_1_Option_5">Diabetes</string>
+    <string name="Question_1_Option_6">Hypertension</string>
+    <string name="Question_1_Option_7">Heart Disease</string>
+    <string name="Question_2">Have you or someone in your family staying with you came in close contact with a laboratory confirmed COVID-19 patient in the last 14 days ?</string>
+    <string name="Question_2_Option_1">Yes</string>
+    <string name="Question_2_Option_2">No</string>
+    <string name="Question_3">Have you or someone in your family staying with you attended a large gathering/ in a migration centre in the last 14 days ?</string>
+    <string name="Question_3_Option_1">Yes</string>
+    <string name="Question_3_Option_2">No</string>
+    <string name="Question_4">Are you currently working for essential services in public exposed places (such as hospitals, retail outlets, delivery services) ?</string>
+    <string name="Question_4_Option_1">Yes</string>
+    <string name="Question_4_Option_2">No</string>
+    <string name="Question_5">Is someone in your family staying with you currently working for essential services in public exposed places (such as hospitals, retail outlets, delivery services) ?</string>
+    <string name="Question_5_Option_1">Yes</string>
+    <string name="Question_5_Option_2">No</string>
+    <string name="Question_6">Are you having one or more of the following symptons ?</string>
+    <string name="Question_6_Option_1">None</string>
+    <string name="Question_6_Option_2">Fever</string>
+    <string name="Question_6_Option_3">Dry cough</string>
+    <string name="Question_6_Option_4">Feeling shortness of breath</string>
+    <string name="Question_6_Option_5">Sore throat</string>
+    <string name="Question_6_Option_6">Hoarseness in voice</string>
+    <string name="Question_6_Option_7">Headache</string>
+    <string name="Question_6_Option_8">Running Nose</string>
+    <string name="covid_19_self_checker_header_text">COVID-19 SELF CHECKER</string>
+    <string name="terms_of_use_header_text">Terms of Use</string>
+    <string name="terms_of_use_sub_header_text">Please give correct answers</string>
+    <string name="terms_of_use_description_text">Accurate answers will help us - help you better. Medical and support staff are valuable and very limited. Be a responsible citizen.</string>
+    <string name="terms_and_conditions_text">*This is based on current understanding of the disease which is subject to change. Please do consult the doctor and take their advice in case you are not feeling well.</string>
+    <string name="low_risk_text">LOW RISK</string>
+    <string name="medium_risk_text">MEDIUM RISK</string>
+    <string name="high_risk_text">HIGH RISk</string>
+    <string name="main_activity_label">Let\'s Fight Corona</string>
+    <string name="trending_videos_header_text">TRENDING VIDEOS</string>
+    <string name="lang_Hindi_text">Hindi</string>
+    <string name="lang_English_text">English</string>
+    <string name="Select_language_text">Select Language...</string>
+    <string name="lang_alert_box_message">If language does not change in one click, please try again.</string>
+    <string name="dr_covid_name_text" translatable="false">Dr. COVID</string>
+    <string name="dr_covid_description_text">I am here to protect you from COVID-19</string>
+    <string name="support_drawer_item_text">SUPPORT</string>
+    <string name="covid_19_helpline_drawer_item_text">COVID-19 Helpline</string>
+    <string name="app_support_drawer_item_text">App Support</string>
+    <string name="recommendation_text_low_risk"><b><u>Recommendation</u> :</b> Practice personal hygiene as a preventive measure. Avoid public activities outside home. Avoid any travel unless necessary.</string>
+    <string name="recommendation_text_high_risk"><b><u>Recommendation</u> :</b> It is strongly adviced to you to consult a doctor without any further ado. Be at home, Stay Safe.</string>
+    <string name="can_be_at_RISK_text">You can be at RISK</string>
+    <string name="can_be_at_HIGH_RISK_text">You can be at HIGH RISK</string>
+    <string name="recommendation_text_can_be_at_RISK"><b><u>Recommendation</u> :</b> You are more vulnerable to the disease because of your prevailing health conditions. So best advice for you is to stay home and if you are feeling unwell, please consult a doctor without a due.</string>
+    <string name="recommendation_text_can_be_at_RISK_2"><b><u>Recommendation</u> :</b> You are more vulnerable to the disease. So best advice for you is to stay home and if you are feeling unwell, please consult a doctor without a due.</string>
+    <string name="recommendation_text_can_be_at_HIGH_RISK"><b><u>Recommendation</u> :</b> You are more vulnerable to the disease because of your prevailing health conditions. Practice personal hygiene as a preventive measure. Avoid public activities outside home. Avoid any travel unless necessary.</string>
+    <string name="recommendation_text_can_be_at_HIGH_RISK_2"><b><u>Recommendation</u> :</b> You are more vulnerable to the disease. So best advice for you is please consult a doctor without a delay.</string>
+    <string name="no_internet_advice_text">Please turn your mobile data</string>
+    <string name="no_internet_text">No Internet Connection</string>
+</resources>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#FFAA"
+    android:gravity="bottom"
+    android:padding="16dp">
+    <ImageView
+        android:layout_width="124dp"
+        android:layout_height="150dp"
+        android:src="@drawable/dr_covid"
+        android:scaleType="centerCrop"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/dr_covid_name_text"
+        android:paddingTop="8dp"
+        android:textColor="@android:color/black"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body2"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingTop="2dp"
+        android:text="@string/dr_covid_description_text"
+        android:textColor="@android:color/black"
+        android:fontFamily="monospace"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body1"/>
+</LinearLayout>

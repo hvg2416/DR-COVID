@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFFFAAAA</color>
+    <color name="colorPrimaryDark">#BD6D6D</color>
+    <color name="colorAccent">#ED3176</color>
+    <color name="splash_screen_background_color">#3490DC</color>
+    <color name="active_cases_sub_title_text_color">#FFC107</color>
+    <color name="death_cases_sub_title_text_color">#DA1D0F</color>
+    <color name="recovered_cases_sub_title_text_color">#268C14</color>
+    <color name="check_box_color">#9C27B0</color>
+    <color name="fab_background_color">#ED1866</color>
+</resources>

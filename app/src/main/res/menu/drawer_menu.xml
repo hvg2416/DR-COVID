@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="@string/support_drawer_item_text">
+        <menu>
+            <item android:id="@+id/nav_helpline"
+                android:icon="@drawable/helpline_icon"
+                android:title="@string/covid_19_helpline_drawer_item_text"/>
+            <item android:id="@+id/nav_app_support"
+                android:icon="@drawable/ic_message"
+                android:title="@string/app_support_drawer_item_text"/>
+        </menu>
+    </item>
+</menu>
